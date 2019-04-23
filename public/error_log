@@ -1,0 +1,176 @@
+[16-Jul-2017 05:31:20 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/labsyste/public_html/demo/app/Http/Controllers/Controller.php on line 11
+[16-Jul-2017 05:44:16 UTC] PHP Fatal error:  Class 'Form' not found in /home/labsyste/public_html/demo/storage/framework/views/a281cec3252ac44e63e76b744a7b7fad09175556.php on line 24
+[16-Jul-2017 05:46:48 UTC] PHP Fatal error:  Class 'Form' not found in /home/labsyste/public_html/demo/storage/framework/views/a281cec3252ac44e63e76b744a7b7fad09175556.php on line 24
+[16-Jul-2017 05:48:06 UTC] PHP Fatal error:  Class 'Form' not found in /home/labsyste/public_html/demo/storage/framework/views/a281cec3252ac44e63e76b744a7b7fad09175556.php on line 24
+[16-Jul-2017 05:50:51 UTC] PHP Fatal error:  Class 'Form' not found in /home/labsyste/public_html/demo/storage/framework/views/a281cec3252ac44e63e76b744a7b7fad09175556.php on line 24
+[16-Jul-2017 05:51:09 UTC] PHP Fatal error:  Class 'Form' not found in /home/labsyste/public_html/demo/storage/framework/views/a281cec3252ac44e63e76b744a7b7fad09175556.php on line 26
+[16-Jul-2017 05:51:12 UTC] PHP Fatal error:  Class 'Form' not found in /home/labsyste/public_html/demo/storage/framework/views/a281cec3252ac44e63e76b744a7b7fad09175556.php on line 26
+[16-Jul-2017 05:51:19 UTC] PHP Fatal error:  Class 'Form' not found in /home/labsyste/public_html/demo/storage/framework/views/a281cec3252ac44e63e76b744a7b7fad09175556.php on line 26
+[16-Jul-2017 05:57:55 UTC] PHP Fatal error:  Class 'Form' not found in /home/labsyste/public_html/demo/storage/framework/views/a281cec3252ac44e63e76b744a7b7fad09175556.php on line 24
+[16-Jul-2017 06:01:03 UTC] PHP Fatal error:  Class 'Form' not found in /home/labsyste/public_html/demo/storage/framework/views/a281cec3252ac44e63e76b744a7b7fad09175556.php on line 24
+[16-Jul-2017 06:06:47 UTC] PHP Fatal error:  Class 'Form' not found in /home/labsyste/public_html/demo/storage/framework/views/a281cec3252ac44e63e76b744a7b7fad09175556.php on line 24
+[16-Jul-2017 06:14:30 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[16-Jul-2017 06:15:32 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[16-Jul-2017 06:16:11 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[16-Jul-2017 06:18:58 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[16-Jul-2017 06:20:33 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[16-Jul-2017 06:20:35 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[16-Jul-2017 06:23:44 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[16-Jul-2017 06:25:44 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[16-Jul-2017 06:25:55 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[16-Jul-2017 06:31:42 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[16-Jul-2017 06:32:34 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[16-Jul-2017 18:57:49 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[16-Jul-2017 18:57:59 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[17-Jul-2017 02:28:54 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[17-Jul-2017 02:28:54 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[18-Jul-2017 12:04:25 UTC] PHP Fatal error:  Class 'Collective\Html\HtmlServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[31-Jul-2017 02:26:39 UTC] PHP Fatal error:  Cannot use Covenant as Covenant because the name is already in use in /home/labsyste/public_html/demo/app/Value.php on line 7
+[31-Jul-2017 02:28:20 UTC] PHP Fatal error:  Cannot use Covenant as Covenant because the name is already in use in /home/labsyste/public_html/demo/app/Value.php on line 7
+[31-Jul-2017 02:28:59 UTC] PHP Fatal error:  Cannot use Covenant as Covenant because the name is already in use in /home/labsyste/public_html/demo/app/Value.php on line 7
+[31-Jul-2017 02:47:44 UTC] PHP Fatal error:  Cannot use Covenant as Covenant because the name is already in use in /home/labsyste/public_html/demo/app/Value.php on line 7
+[31-Jul-2017 02:49:05 UTC] PHP Fatal error:  Cannot use Covenant as Covenant because the name is already in use in /home/labsyste/public_html/demo/app/Value.php on line 7
+[31-Jul-2017 02:53:16 UTC] PHP Fatal error:  Cannot use Covenant as Covenant because the name is already in use in /home/labsyste/public_html/demo/app/Value.php on line 7
+[31-Jul-2017 02:53:23 UTC] PHP Fatal error:  Cannot use Covenant as Covenant because the name is already in use in /home/labsyste/public_html/demo/app/Value.php on line 7
+[31-Jul-2017 02:54:55 UTC] PHP Fatal error:  Cannot use Covenant as Covenant because the name is already in use in /home/labsyste/public_html/demo/app/Value.php on line 7
+[31-Jul-2017 02:54:57 UTC] PHP Fatal error:  Cannot use Covenant as Covenant because the name is already in use in /home/labsyste/public_html/demo/app/Value.php on line 7
+[31-Jul-2017 02:54:59 UTC] PHP Fatal error:  Cannot use Covenant as Covenant because the name is already in use in /home/labsyste/public_html/demo/app/Value.php on line 7
+[31-Jul-2017 03:07:29 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinic' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 72
+[31-Jul-2017 03:08:57 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/labsyste/public_html/demo/bootstrap/app.php on line 14
+[31-Jul-2017 03:09:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinic' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 72
+[31-Jul-2017 03:11:05 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinic' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 72
+[31-Jul-2017 03:14:28 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinic' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 72
+[31-Jul-2017 03:14:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinic' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 72
+[31-Jul-2017 03:15:11 UTC] PHP Fatal error:  Cannot use Covenant as Covenant because the name is already in use in /home/labsyste/public_html/demo/app/Value.php on line 7
+[31-Jul-2017 03:15:41 UTC] PHP Fatal error:  Cannot use Covenant as Covenant because the name is already in use in /home/labsyste/public_html/demo/app/Value.php on line 7
+[31-Jul-2017 03:55:02 UTC] PHP Fatal error:  Class 'App\Providers\EventServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 612
+[31-Jul-2017 04:15:37 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/labsyste/public_html/demo/storage/framework/views/0499a31479be5c92b03b7397dd143062af6a441a.php on line 308
+[31-Jul-2017 04:37:14 UTC] PHP Fatal error:  Class 'App\Catgory' not found in /home/labsyste/public_html/demo/storage/framework/views/4402e86808622a5050225544b0a43b5669d1ddeb.php on line 51
+[31-Jul-2017 04:37:37 UTC] PHP Fatal error:  Class 'App\Catgory' not found in /home/labsyste/public_html/demo/storage/framework/views/4402e86808622a5050225544b0a43b5669d1ddeb.php on line 51
+[31-Jul-2017 04:37:40 UTC] PHP Fatal error:  Class 'App\Catgory' not found in /home/labsyste/public_html/demo/storage/framework/views/4402e86808622a5050225544b0a43b5669d1ddeb.php on line 51
+[31-Jul-2017 04:37:59 UTC] PHP Fatal error:  Class 'App\Catgory' not found in /home/labsyste/public_html/demo/storage/framework/views/4402e86808622a5050225544b0a43b5669d1ddeb.php on line 51
+[31-Jul-2017 04:38:01 UTC] PHP Fatal error:  Class 'App\Catgory' not found in /home/labsyste/public_html/demo/storage/framework/views/4402e86808622a5050225544b0a43b5669d1ddeb.php on line 51
+[31-Jul-2017 04:38:33 UTC] PHP Fatal error:  Class 'App\Catgory' not found in /home/labsyste/public_html/demo/storage/framework/views/4402e86808622a5050225544b0a43b5669d1ddeb.php on line 51
+[31-Jul-2017 04:41:57 UTC] PHP Fatal error:  Class 'App\Method' not found in /home/labsyste/public_html/demo/storage/framework/views/4402e86808622a5050225544b0a43b5669d1ddeb.php on line 51
+[31-Jul-2017 04:46:51 UTC] PHP Fatal error:  Class 'App\Catgory' not found in /home/labsyste/public_html/demo/storage/framework/views/4402e86808622a5050225544b0a43b5669d1ddeb.php on line 51
+[31-Jul-2017 05:02:13 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Covenant' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ValueController.php on line 16
+[31-Jul-2017 05:07:23 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Exam' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ValueController.php on line 16
+[31-Jul-2017 05:18:07 UTC] PHP Fatal error:  Cannot use Exam as Exam because the name is already in use in /home/labsyste/public_html/demo/app/Value.php on line 6
+[31-Jul-2017 05:19:57 UTC] PHP Fatal error:  Cannot use Exam as Exam because the name is already in use in /home/labsyste/public_html/demo/app/Value.php on line 6
+[31-Jul-2017 05:21:08 UTC] PHP Fatal error:  Cannot use Exam as Exam because the name is already in use in /home/labsyste/public_html/demo/app/Value.php on line 6
+[31-Jul-2017 20:15:28 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinica' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 14
+[31-Jul-2017 23:36:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinica' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 14
+[31-Jul-2017 23:36:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinica' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 14
+[31-Jul-2017 23:36:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinica' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 14
+[31-Jul-2017 23:36:32 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinica' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 14
+[01-Aug-2017 01:25:28 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinica' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 14
+[01-Aug-2017 01:27:42 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinic' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 14
+[01-Aug-2017 01:28:15 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinica' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 14
+[01-Aug-2017 01:29:31 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinic' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 14
+[01-Aug-2017 01:43:00 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinica' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 14
+[01-Aug-2017 01:43:29 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinic' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 14
+[01-Aug-2017 01:44:17 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Clinic' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 14
+[01-Aug-2017 01:45:18 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Cidade' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 16
+[01-Aug-2017 01:47:22 UTC] PHP Fatal error:  Class 'App\City' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 17
+[01-Aug-2017 01:49:51 UTC] PHP Fatal error:  Class 'App\City' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 17
+[01-Aug-2017 01:50:28 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Cidade' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 17
+[01-Aug-2017 01:51:13 UTC] PHP Fatal error:  Class 'App\City' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ClinicController.php on line 17
+[01-Aug-2017 02:36:24 UTC] PHP Fatal error:  Undefined class constant 'clas' in /home/labsyste/public_html/demo/app/Result.php on line 26
+[15-Aug-2017 22:44:18 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/labsyste/public_html/demo/storage/framework/views/a6dab91a3c7e7357b9678af348b56da5d8075be2.php on line 94
+[15-Aug-2017 22:46:21 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/labsyste/public_html/demo/storage/framework/views/a6dab91a3c7e7357b9678af348b56da5d8075be2.php on line 94
+[16-Aug-2017 00:09:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/labsyste/public_html/demo/storage/framework/views/a6dab91a3c7e7357b9678af348b56da5d8075be2.php on line 141
+[16-Aug-2017 00:09:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/labsyste/public_html/demo/storage/framework/views/a6dab91a3c7e7357b9678af348b56da5d8075be2.php on line 141
+[16-Aug-2017 00:39:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/labsyste/public_html/demo/storage/framework/views/a6dab91a3c7e7357b9678af348b56da5d8075be2.php on line 144
+[16-Aug-2017 00:40:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/labsyste/public_html/demo/storage/framework/views/a6dab91a3c7e7357b9678af348b56da5d8075be2.php on line 144
+[16-Aug-2017 00:41:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/labsyste/public_html/demo/storage/framework/views/a6dab91a3c7e7357b9678af348b56da5d8075be2.php on line 144
+[16-Aug-2017 00:42:04 UTC] PHP Parse error:  syntax error, unexpected 'layouts' (T_STRING) in /home/labsyste/public_html/demo/storage/framework/views/a6dab91a3c7e7357b9678af348b56da5d8075be2.php on line 187
+[16-Aug-2017 00:42:30 UTC] PHP Parse error:  syntax error, unexpected 'layouts' (T_STRING) in /home/labsyste/public_html/demo/storage/framework/views/a6dab91a3c7e7357b9678af348b56da5d8075be2.php on line 187
+[16-Aug-2017 00:44:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/labsyste/public_html/demo/storage/framework/views/a6dab91a3c7e7357b9678af348b56da5d8075be2.php on line 144
+[16-Aug-2017 03:27:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/labsyste/public_html/demo/storage/framework/views/435214fea08e54b56266f44235c0f0b82d57ccdf.php on line 50
+[16-Aug-2017 04:16:49 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/labsyste/public_html/demo/storage/framework/views/55e1e872b0b50bd212caec6b2efbe57a6c38243e.php on line 53
+[16-Aug-2017 04:17:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/labsyste/public_html/demo/storage/framework/views/55e1e872b0b50bd212caec6b2efbe57a6c38243e.php on line 53
+[16-Aug-2017 05:05:56 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/labsyste/public_html/demo/storage/framework/views/55e1e872b0b50bd212caec6b2efbe57a6c38243e.php on line 71
+[16-Aug-2017 05:06:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/labsyste/public_html/demo/storage/framework/views/55e1e872b0b50bd212caec6b2efbe57a6c38243e.php on line 71
+[16-Aug-2017 05:07:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/labsyste/public_html/demo/storage/framework/views/55e1e872b0b50bd212caec6b2efbe57a6c38243e.php on line 71
+[16-Aug-2017 05:07:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/labsyste/public_html/demo/storage/framework/views/55e1e872b0b50bd212caec6b2efbe57a6c38243e.php on line 71
+[16-Aug-2017 05:08:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/labsyste/public_html/demo/storage/framework/views/55e1e872b0b50bd212caec6b2efbe57a6c38243e.php on line 71
+[16-Aug-2017 05:15:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/labsyste/public_html/demo/storage/framework/views/55e1e872b0b50bd212caec6b2efbe57a6c38243e.php on line 71
+[16-Aug-2017 05:15:48 UTC] PHP Fatal error:  Cannot use object of type Illuminate\Database\Query\Builder as array in /home/labsyste/public_html/demo/app/Http/Controllers/FinancesController.php on line 214
+[16-Aug-2017 05:18:18 UTC] PHP Fatal error:  Cannot use object of type Illuminate\Database\Query\Builder as array in /home/labsyste/public_html/demo/app/Http/Controllers/FinancesController.php on line 214
+[16-Aug-2017 05:18:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/labsyste/public_html/demo/storage/framework/views/55e1e872b0b50bd212caec6b2efbe57a6c38243e.php on line 71
+[16-Aug-2017 05:19:23 UTC] PHP Fatal error:  Cannot use object of type Illuminate\Database\Query\Builder as array in /home/labsyste/public_html/demo/app/Http/Controllers/FinancesController.php on line 214
+[16-Aug-2017 05:23:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/labsyste/public_html/demo/storage/framework/views/55e1e872b0b50bd212caec6b2efbe57a6c38243e.php on line 71
+[16-Aug-2017 05:46:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/labsyste/public_html/demo/app/Http/Controllers/FinancesController.php on line 226
+[16-Aug-2017 05:46:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/labsyste/public_html/demo/app/Http/Controllers/FinancesController.php on line 226
+[16-Aug-2017 05:52:19 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/labsyste/public_html/demo/app/Http/Controllers/FinancesController.php on line 218
+[16-Aug-2017 23:43:01 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Redirect' not found in /home/labsyste/public_html/demo/app/Http/Controllers/FinancesController.php on line 283
+[17-Aug-2017 00:54:01 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/labsyste/public_html/demo/storage/framework/views/55e1e872b0b50bd212caec6b2efbe57a6c38243e.php on line 258
+[17-Aug-2017 01:53:52 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/labsyste/public_html/demo/app/Http/Controllers/FinancesController.php on line 355
+[17-Aug-2017 02:12:16 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/labsyste/public_html/demo/storage/framework/views/55e1e872b0b50bd212caec6b2efbe57a6c38243e.php on line 95
+[17-Aug-2017 02:35:19 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/labsyste/public_html/demo/app/Http/Controllers/FinancesController.php on line 297
+[17-Aug-2017 02:35:39 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/labsyste/public_html/demo/app/Http/Controllers/FinancesController.php on line 297
+[17-Aug-2017 03:15:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Company' not found in /home/labsyste/public_html/demo/app/Http/Controllers/CompanyController.php on line 13
+[17-Aug-2017 03:28:52 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Covenant' not found in /home/labsyste/public_html/demo/app/Http/Controllers/CompaniesController.php on line 34
+[17-Aug-2017 05:15:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/labsyste/public_html/demo/storage/framework/views/694c3b97dd7b35e06fb8fbff03c3c2a9d7b4164e.php on line 159
+[17-Aug-2017 05:28:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/labsyste/public_html/demo/storage/framework/views/694c3b97dd7b35e06fb8fbff03c3c2a9d7b4164e.php on line 275
+[17-Aug-2017 05:32:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/labsyste/public_html/demo/storage/framework/views/694c3b97dd7b35e06fb8fbff03c3c2a9d7b4164e.php on line 302
+[17-Aug-2017 23:04:04 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/labsyste/public_html/demo/app/Http/Controllers/ExpensesController.php on line 39
+[18-Aug-2017 00:11:30 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/labsyste/public_html/demo/storage/framework/views/ffe8c2d8692f8a6de9aae272a6f90e08c2bfce46.php on line 103
+[18-Aug-2017 00:12:10 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '(' in /home/labsyste/public_html/demo/storage/framework/views/ffe8c2d8692f8a6de9aae272a6f90e08c2bfce46.php on line 103
+[18-Aug-2017 00:13:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/labsyste/public_html/demo/storage/framework/views/ffe8c2d8692f8a6de9aae272a6f90e08c2bfce46.php on line 217
+[18-Aug-2017 00:15:06 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/labsyste/public_html/demo/storage/framework/views/ffe8c2d8692f8a6de9aae272a6f90e08c2bfce46.php on line 106
+[18-Aug-2017 00:16:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/labsyste/public_html/demo/storage/framework/views/ffe8c2d8692f8a6de9aae272a6f90e08c2bfce46.php on line 121
+[18-Aug-2017 00:28:29 UTC] PHP Fatal error:  Class 'App\Companie' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php on line 487
+[18-Aug-2017 00:37:57 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/labsyste/public_html/demo/storage/framework/views/ffe8c2d8692f8a6de9aae272a6f90e08c2bfce46.php on line 108
+[18-Aug-2017 02:52:48 UTC] PHP Fatal error:  Cannot use object of type Illuminate\Database\Query\Builder as array in /home/labsyste/public_html/demo/app/Http/Controllers/ExpensesController.php on line 148
+[18-Aug-2017 02:55:39 UTC] PHP Fatal error:  Cannot use object of type Illuminate\Database\Query\Builder as array in /home/labsyste/public_html/demo/app/Http/Controllers/ExpensesController.php on line 149
+[18-Aug-2017 03:03:04 UTC] PHP Fatal error:  Cannot use object of type Illuminate\Database\Query\Builder as array in /home/labsyste/public_html/demo/app/Http/Controllers/ExpensesController.php on line 150
+[18-Aug-2017 03:08:12 UTC] PHP Fatal error:  Cannot use object of type Illuminate\Database\Query\Builder as array in /home/labsyste/public_html/demo/app/Http/Controllers/ExpensesController.php on line 150
+[18-Aug-2017 03:10:55 UTC] PHP Fatal error:  Cannot use object of type Illuminate\Database\Query\Builder as array in /home/labsyste/public_html/demo/app/Http/Controllers/ExpensesController.php on line 148
+[18-Aug-2017 03:34:14 UTC] PHP Fatal error:  Cannot use object of type Illuminate\Database\Query\Builder as array in /home/labsyste/public_html/demo/app/Http/Controllers/ExpensesController.php on line 150
+[18-Aug-2017 03:36:25 UTC] PHP Fatal error:  Cannot use object of type Illuminate\Database\Query\Builder as array in /home/labsyste/public_html/demo/app/Http/Controllers/ExpensesController.php on line 150
+[18-Aug-2017 03:55:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/labsyste/public_html/demo/storage/framework/views/ffe8c2d8692f8a6de9aae272a6f90e08c2bfce46.php on line 125
+[18-Aug-2017 05:32:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/labsyste/public_html/demo/storage/framework/views/ffe8c2d8692f8a6de9aae272a6f90e08c2bfce46.php on line 274
+[18-Aug-2017 05:38:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/labsyste/public_html/demo/storage/framework/views/ffe8c2d8692f8a6de9aae272a6f90e08c2bfce46.php on line 413
+[18-Aug-2017 05:39:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/labsyste/public_html/demo/storage/framework/views/ffe8c2d8692f8a6de9aae272a6f90e08c2bfce46.php on line 413
+[19-Aug-2017 04:01:01 UTC] PHP Parse error:  syntax error, unexpected 'intval' (T_STRING) in /home/labsyste/public_html/demo/app/Http/Controllers/ReportController.php on line 29
+[19-Aug-2017 04:01:16 UTC] PHP Parse error:  syntax error, unexpected 'intval' (T_STRING) in /home/labsyste/public_html/demo/app/Http/Controllers/ReportController.php on line 29
+[19-Aug-2017 04:56:50 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ReportController.php on line 53
+[19-Aug-2017 05:36:34 UTC] PHP Parse error:  syntax error, unexpected '$insert' (T_VARIABLE) in /home/labsyste/public_html/demo/app/Http/Controllers/ReportController.php on line 53
+[19-Aug-2017 23:13:06 UTC] PHP Parse error:  syntax error, unexpected '$input' (T_VARIABLE), expecting ';' or '{' in /home/labsyste/public_html/demo/app/Http/Controllers/ReportController.php on line 91
+[19-Aug-2017 23:24:37 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/labsyste/public_html/demo/storage/framework/views/a84f09b2d709c58093c0beffa02e8e28cd6db84e.php on line 6
+[19-Aug-2017 23:26:22 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/labsyste/public_html/demo/storage/framework/views/a84f09b2d709c58093c0beffa02e8e28cd6db84e.php on line 19
+[20-Aug-2017 00:22:22 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/labsyste/public_html/demo/storage/framework/views/2f9fdf2cb3ea3626383bd4e735fec1d9f8132f90.php on line 4
+[20-Aug-2017 00:31:14 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Order' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ReportController.php on line 44
+[20-Aug-2017 00:34:50 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/labsyste/public_html/demo/app/Http/Controllers/ReportController.php on line 50
+[20-Aug-2017 01:19:58 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/labsyste/public_html/demo/app/Http/Controllers/ReportController.php on line 113
+[20-Aug-2017 01:20:17 UTC] PHP Parse error:  syntax error, unexpected 'DB' (T_STRING) in /home/labsyste/public_html/demo/app/Http/Controllers/ReportController.php on line 120
+[20-Aug-2017 01:20:45 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Input' not found in /home/labsyste/public_html/demo/app/Http/Controllers/ReportController.php on line 115
+[20-Aug-2017 20:54:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/labsyste/public_html/demo/storage/framework/views/2f9fdf2cb3ea3626383bd4e735fec1d9f8132f90.php on line 56
+[20-Aug-2017 20:55:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/labsyste/public_html/demo/storage/framework/views/2f9fdf2cb3ea3626383bd4e735fec1d9f8132f90.php on line 56
+[23-Aug-2017 04:24:46 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/labsyste/public_html/demo/app/Http/Controllers/PrintController.php on line 7
+[23-Aug-2017 04:27:41 UTC] PHP Fatal error:  Class 'App\Http\Controllers\mPDF' not found in /home/labsyste/public_html/demo/app/Http/Controllers/PrintController.php on line 31
+[23-Aug-2017 04:30:57 UTC] PHP Fatal error:  Class 'App\Http\Controllers\mPDF' not found in /home/labsyste/public_html/demo/app/Http/Controllers/PrintController.php on line 32
+[23-Aug-2017 05:01:32 UTC] PHP Fatal error:  Class 'App\Http\Controllers\MPDF57' not found in /home/labsyste/public_html/demo/app/Http/Controllers/PrintController.php on line 32
+[23-Aug-2017 05:09:44 UTC] PHP Fatal error:  Class 'niklasravnsborg\LaravelPdf\PdfServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[23-Aug-2017 05:10:43 UTC] PHP Fatal error:  Class 'niklasravnsborg\LaravelPdf\PdfServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[23-Aug-2017 05:13:28 UTC] PHP Fatal error:  Class 'niklasravnsborg\LaravelPdf\PdfServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[23-Aug-2017 05:13:38 UTC] PHP Fatal error:  Class 'niklasravnsborg\LaravelPdf\PdfServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[23-Aug-2017 05:13:45 UTC] PHP Fatal error:  Class 'niklasravnsborg\LaravelPdf\PdfServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[23-Aug-2017 05:18:48 UTC] PHP Fatal error:  Class 'Servit\Mpdf\ServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[23-Aug-2017 05:29:52 UTC] PHP Fatal error:  Class 'Kendu\Mpdf\ServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[23-Aug-2017 05:29:55 UTC] PHP Fatal error:  Class 'Kendu\Mpdf\ServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[23-Aug-2017 05:30:40 UTC] PHP Fatal error:  Class 'Kendu\Mpdf\ServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[23-Aug-2017 05:36:24 UTC] PHP Fatal error:  Class 'Kendu\Mpdf\ServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[23-Aug-2017 05:37:04 UTC] PHP Fatal error:  Class 'Kendu\Mpdf\ServiceProvider' not found in /home/labsyste/public_html/demo/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[23-Aug-2017 05:38:26 UTC] PHP Fatal error:  Class 'App\Http\Controllers\mPDF' not found in /home/labsyste/public_html/demo/app/Http/Controllers/PrintController.php on line 32
+[23-Aug-2017 05:39:13 UTC] PHP Fatal error:  Class 'App\Http\Controllers\mPDF' not found in /home/labsyste/public_html/demo/app/Http/Controllers/PrintController.php on line 32
+[23-Aug-2017 05:41:42 UTC] PHP Fatal error:  Class 'App\Http\Controllers\mPDF' not found in /home/labsyste/public_html/demo/app/Http/Controllers/PrintController.php on line 32
+[23-Aug-2017 05:42:59 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/labsyste/public_html/demo/app/Http/Controllers/PrintController.php on line 9
+[23-Aug-2017 05:44:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\mPDF' not found in /home/labsyste/public_html/demo/app/Http/Controllers/PrintController.php on line 32
+[23-Aug-2017 05:46:54 UTC] PHP Fatal error:  Class 'App\Http\Controllers\mPDF' not found in /home/labsyste/public_html/demo/app/Http/Controllers/PrintController.php on line 34
+[23-Aug-2017 05:47:20 UTC] PHP Fatal error:  Class 'App\Http\Controllers\mPDF' not found in /home/labsyste/public_html/demo/app/Http/Controllers/PrintController.php on line 34
+[23-Aug-2017 05:50:42 UTC] PHP Fatal error:  Class 'App\Http\Controllers\mPDF' not found in /home/labsyste/public_html/demo/app/Http/Controllers/PrintController.php on line 38
+[23-Aug-2017 05:51:15 UTC] PHP Fatal error:  Class 'App\Http\Controllers\mPDF' not found in /home/labsyste/public_html/demo/app/Http/Controllers/PrintController.php on line 38
+[23-Aug-2017 11:06:22 UTC] PHP Fatal error:  Class 'App\Http\Controllers\mPDF' not found in /home/labsyste/public_html/demo/app/Http/Controllers/PrintController.php on line 38
+[23-Aug-2017 11:11:52 UTC] PHP Fatal error:  Class 'App\Http\Controllers\mPDF' not found in /home/labsyste/public_html/demo/app/Http/Controllers/PrintController.php on line 38
